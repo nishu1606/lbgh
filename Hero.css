@@ -1,0 +1,83 @@
+.home {
+    
+    align-items: center;
+    background: rgba(0, 128, 128, 0.12);
+    height: 82vh;
+    width: 100vw;
+
+}
+
+
+
+.content1 {
+    font-weight: bold;
+    flex: 1;
+    padding: 1em;
+    font-family: 'Odor Mean Chey';
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 6%;
+    padding-right: 35%;
+    padding-bottom: 3%;
+   
+    
+    
+}
+.content1 h1{
+    font-size: 500%;
+    width: 65rem;
+    margin-left: 40px;
+   
+   
+    
+  }
+  
+  .paraa{
+    font-size: 350%;
+    margin-left: 40px;
+    width: 60rem;
+    
+  }
+
+span {
+    color: #008080;
+}
+.btn{
+    background:#008080;
+    color: white; 
+    height: 5rem;
+    width: 19rem;
+    margin-top: 4rem;
+    border-radius: 5px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.session{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+h4{
+    color: #1D2939B2;
+    font-size: 1.5rem;
+}
+.hero-image{
+    height: 20px;
+    width: 20px;
+    margin-left: 160px;
+    
+    
+    
+}
+.hero{
+    height: 72rem;
+    width: 72rem;
+    margin-left: 70rem;
+  
+  
+    
+   
+    
+}
